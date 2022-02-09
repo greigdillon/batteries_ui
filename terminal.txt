@@ -1,0 +1,1 @@
+protoc --dart_out=grpc:machine_ui/lib/grpc proto/machine/*.proto
